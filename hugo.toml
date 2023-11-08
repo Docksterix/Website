@@ -14,7 +14,7 @@ dateformNum     = "02/01/2006"
 dateformNumTime = "02/01/2006 15:04"
 
 # Sous-titre pour la page d'accueil
-homeSubtitle = "Naviguer dans l'inconnu, notre terrain de jeu."
+homeSubtitle = "Naviguer dans l'inconnu, est notre terrain de jeu."
 
 # Définir disableReadOtherPosts sur true pour masquer les liens vers d'autres articles.
 disableReadOtherPosts = false
