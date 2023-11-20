@@ -23,9 +23,9 @@ disableReadOtherPosts = false
 enableSharingButtons = true
 
 # Métadonnées principalement utilisées dans l'en-tête du document
-description = "Naviguer dans l'inconnu, notre terrain de jeu."
+description = "Naviguer dans l'inconnu, est notre terrain de jeu."
 keywords = "page d'accueil, blog"
-images = [""]
+images = ["Logo.png"]
 
 # Couleurs pour les favicons
 [params.favicon.color]
@@ -41,7 +41,7 @@ series   = "séries"
 [languages]
   [languages.fr]
     title = "Docksterix"
-    subtitle = "Naviguer dans l'inconnu, notre terrain de jeu."
+    subtitle = "Naviguer dans l'inconnu, est notre terrain de jeu."
     keywords = ""
     copyright = 'Docksterix'
     readOtherPosts = "Plus de contenu"
